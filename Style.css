@@ -1,0 +1,18 @@
+.carta{
+    width: 50%;
+    height: 98%;
+    background: black;
+    border-radius: 5vh;
+    box-shadow: 10px 10px 10px 10px rgb(166, 4, 253);
+    background-image: url(https://i.pinimg.com/originals/88/1e/97/881e975af06ff67857544c7b64e65cbc.gif);
+    }
+    
+    H1{
+        color: white;
+    }
+    
+    body{
+        background-image: url(https://i.pinimg.com/originals/29/a3/94/29a394da15c7fedd2cf7cc437dc10bb5.gif);
+        color: white;
+        font-family: 'Barlow', sans-serif;
+    }
